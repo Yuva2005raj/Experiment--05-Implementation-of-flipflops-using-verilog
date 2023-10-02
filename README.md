@@ -158,22 +158,22 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
-# SR Flip-Flop:
+ SR Flip-Flop:
 
 ![269828265-c1f1295a-3a8f-4000-b996-08c888291c35](https://github.com/Yuva2005raj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343998/87164cab-0095-4432-bba3-932196821ac7)
 
-# JK Flip-Flop:
+ JK Flip-Flop:
 
 ![269827690-d7316187-b35f-4a8d-8699-9b9c21040f50](https://github.com/Yuva2005raj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343998/3d532ce7-a4ea-4c77-b632-29ec09b17d5e)
 
 
 ## OUTPUT WAVEFORM:
 
-# SR flipflop:
+ SR flipflop:
 
 ![269828985-71205c07-de35-4778-bb4b-9916d6317a22](https://github.com/Yuva2005raj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343998/14316010-de56-4b6d-999e-59f0745fbd84)
 
-# Jk flipflop:
+ Jk flipflop:
 
 ![269829005-7e81dba9-db85-43e2-9c2c-7ff05a93d7d4](https://github.com/Yuva2005raj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343998/b17201f3-7267-4d6f-99cd-7e7958b3410a)
 
