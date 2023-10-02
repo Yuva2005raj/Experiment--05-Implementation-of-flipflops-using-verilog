@@ -122,6 +122,7 @@ Developed by: YUVARAJ B
 RegisterNumber: 212222230182
 ```
 # SR Flip_flop
+```
 
 module ex05(s,r,q,qbar,clk);
 input s,r,clk;
@@ -135,7 +136,10 @@ qbar=r|(qbar&(~s));
 end
 endmodule
 
+```
+
 # JK Flip_flop
+```
 
 module jk(k,j,q,qbar,clk);
 input k,j,clk;
@@ -150,7 +154,7 @@ qbar=(~qbar&k)|(qbar&~j);
 end
 endmodule
 
-
+```
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
